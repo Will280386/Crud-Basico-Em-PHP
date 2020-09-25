@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+
+body {
+    background-color:lightgrey;
+}
+
+#tamanhoContainer {
+    width: 700px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: lightseagreen;
+    font-size: 25pt;
+    position: absolute;
+    left: 410px;
+    top: 70px;
+}
+
+
+label {
+    font-family: 'Roboto', sans-serif;
+    color: lightseagreen;
+    margin: 0px;
+}
+
+#botao{
+    background-color:lightseagreen;
+    color: #ffffff;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+}
+
